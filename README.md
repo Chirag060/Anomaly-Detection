@@ -67,8 +67,10 @@ The Credit Card Fraud Detection project successfully demonstrates the applicatio
 ## Example Visuals
 
 Here’s a snapshot of the anomaly detection results:
-![Anomaly Detection Visualization](C:\Users\chira\OneDrive\Pictures\Screenshots\Screenshot 2024-08-20 054401.png)
-![Anomaly Detection Visualization](C:\Users\chira\OneDrive\Pictures\Screenshots\Screenshot 2024-08-20 054618.png)
+(![Screenshot 2024-08-20 054349](https://github.com/user-attachments/assets/a7494119-a45d-47c1-b1c9-fb08c33e5c64)
+)
+(![Screenshot 2024-08-20 054618](https://github.com/user-attachments/assets/6000df23-070f-4cd5-a02f-ce1791a4f10d)
+)
 
 
 ## Data Sources
