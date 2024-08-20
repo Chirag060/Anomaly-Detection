@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection using Anomaly Detection
 
-This repository contains a comprehensive project focused on detecting fraudulent credit card transactions by identifying anomalies in financial transaction data. The project employs machine learning techniques such as Isolation Forests and Autoencoders to effectively detect and analyze anomalies.
+This repository contains a comprehensive project focused on detecting fraudulent credit card transactions by identifying anomalies in financial transaction data. The project employs Isolation Forest Machine Learning Technique to effectively detect and analyze anomalies.
 
 ## Overview
 The Credit Card Fraud Detection project leverages advanced machine learning models to detect anomalies that may indicate fraudulent activities. By analyzing transaction data, the model identifies patterns and flags transactions that deviate significantly from the norm, allowing for early detection of potential fraud.
